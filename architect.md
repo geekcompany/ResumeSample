@@ -238,7 +238,7 @@
 - maven(5)
 
 
-| 冗繁框架和平台 | 
+| 冗繁框架和平台 |  | | | |
 |----------|--------|--------|--------|--------|
 | CSS3 | PHP | Bootstrap | Adobe Photoshop | UI/UX 設計 |
 | HTML5 | MVC | Symfony | Adobe Fireworks | 样机 / Prototyping |

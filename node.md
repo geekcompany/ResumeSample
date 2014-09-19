@@ -188,7 +188,7 @@
 - requestjs(2)
 - coffeescript(2)
 
-| 冗繁框架和平台 | 
+| 冗繁框架和平台 |  | | | |
 |----------|--------|--------|--------|--------|
 | CSS3 | PHP | Bootstrap | Adobe Photoshop | UI/UX 設計 |
 | HTML5 | MVC | Symfony | Adobe Fireworks | 样机 / Prototyping |
@@ -204,7 +204,6 @@
 | CentOS | RHEL | Axure | Eclipse | SMS |
 | NDK | SQLite | OS X | Windows | Apache |
 | Sass | ExtJS | Zepto.js | Wireframing | j2me |
-
 
 ---
 
