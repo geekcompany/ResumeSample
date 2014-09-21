@@ -200,7 +200,6 @@
 - actionscript(5)
 - ie8(5)
 - coffeescript(5)
-- htmil5(5)
 - django(4)
 
 
