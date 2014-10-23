@@ -112,7 +112,7 @@
 以下均为我熟练使用的技能
 
 - Web开发：PHP/Hack/Node
-- Web框架：ThinkPHP/Yaf/Yii/Lavaral/LazyPHP
+- Web框架：ThinkPHP/Yaf/Yii/Laravel/LazyPHP
 - 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
 - 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
 - 数据库相关：MySQL/PgSQL/PDO/SQLite
