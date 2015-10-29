@@ -43,7 +43,7 @@
  - 工作年限：3年
  - 微博：[@JobDeer](http://weibo.com/jobdeer) （``` 如果没有技术相关内容，也可以不放 ```）
  - 技术博客：http://blog.github.io ( ``` 使用GitHub Host的Big较高 ```  )
- - Github: http://github.com/geekcompany ( ``` 有原创repo的Github帐号会极大的提升你的个人品牌 ```  )
+ - Github：http://github.com/geekcompany ( ``` 有原创repo的Github帐号会极大的提升你的个人品牌 ```  )
 
  - 期望职位：Web前端高级程序员，应用架构师
  - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
@@ -91,8 +91,8 @@
 ## 开源项目
 （对于程序员来讲，没有什么比Show me the code能有说服力了）
 
- - [STU](http://github.com/yourname/projectname) : 项目的简要说明，Star和Fork数多的可以注明
- - [WXYZ](http://github.com/yourname/projectname) : 项目的简要说明，Star和Fork数多的可以注明
+ - [STU](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
+ - [WXYZ](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
 
 ## 技术文章
 （挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
