@@ -188,8 +188,22 @@
 - requestjs(2)
 - coffeescript(2)
 
-
-
+| 冗繁框架和平台 |  | | | |
+|----------|--------|--------|--------|--------|
+| CSS3 | PHP | Bootstrap | Adobe Photoshop | UI/UX 設計 |
+| HTML5 | MVC | Symfony | Adobe Fireworks | 样机 / Prototyping |
+| JavaScript | Java | Foundation | Dreamweaver | SEO |
+| jQuery | XML | JSON | CodeIgniter | iOS |
+| Node.js | Python | Flash | o2o | Android |
+| Angular.js | JSP | Dojo | MooTools | Grunt |
+| Ember.js | Ruby | BOM | Flash | GitHub |
+| Backbone.js | Rails | VisualBasic | .NET | .ASP |
+| LESS | MySQL | CoffeeScript | Linux | YUI |
+| Sass | ExtJS | Zepto.js | Django | DOM |
+| REST | Oracle | SVN | j2ee | OpenGL |
+| CentOS | RHEL | Axure | Eclipse | SMS |
+| NDK | SQLite | OS X | Windows | Apache |
+| Sass | ExtJS | Zepto.js | Wireframing | j2me |
 
 ---
 
