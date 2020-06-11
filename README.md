@@ -1,5 +1,5 @@
 # 说明
-Markdown语法约束的简历
+Markdown语法约束的简历 me-resume.md
 简历地址：[www.resume.suroot.win](http://resume.suroot.win)
 
 本仓库Fork的冷熊简历的仓库，如果需要制作自己的简历请移步[geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample)
