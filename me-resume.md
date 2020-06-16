@@ -45,6 +45,6 @@
 - [webSocket接入问题总结](http://suroot.win/2020/04/28/java-webSocket%E6%8E%A5%E5%85%A5%E7%A2%B0%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/)
 ## 开源项目
 
- - [doPi](http://github.com/yourname/projectname)：运行在树莓派上的java项目控制GPIO端口从而控制家电
+ - [doPi](http://github.com/yourname/projectname)：控制树莓派GPIO端口的java项目
 
 感谢您花时间阅读我的简历，期待能有机会和您共事。
