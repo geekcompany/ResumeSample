@@ -3,8 +3,8 @@
 <div align="left">
 	<table rules=none frame=void>
     <tr>
-        <td align = "left" >钱磊 / 男 / 1990</td>
-        <td align = "right" style="width:170px;"  rowspan = "7"><img src="https://gitee.com/suqianlei/Pic-Go-Repository/raw/master/img/20200922114203.jpg" align="cneter" /></td>
+        <td align = "left" >钱磊 / 男 </td>
+        <td align = "right" style="width:140px;"  rowspan = "7"><img src="https://gitee.com/suqianlei/Pic-Go-Repository/raw/master/img/20200924141821.jpeg" align="cneter" /></td>
     </tr>
     <tr>
         <td align = "left">手机：15801030098（同微信号） </td>
@@ -21,11 +21,9 @@
     <tr>
         <td align = "left">学历：本科 / 党员 / 河南大学民生学院 / 2015 年毕业 </td>
     </tr>
-    <tr>
-        <td align = "left">期望职位薪资：Java 中级开发  </td>
-    </tr>
 	</table>
 </div>
+
 ## 专业技能
 <p>
   Java：<progress value="90" max="100"></progress>
