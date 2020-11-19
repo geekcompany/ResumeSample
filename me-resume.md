@@ -10,7 +10,7 @@
         <td align = "left">手机：15801030098（同微信号） </td>
     </tr>
     <tr>
-        <td align = "left">Email：suqianlei@gmail.com </td>
+        <td align = "left">邮箱：suqianlei@gmail.com </td>
     </tr>
     <tr>
         <td align = "left">博客：http://suroot.win </td>
@@ -45,9 +45,8 @@
 ---
 ## 公司：尚德机构 （ 2016 年 9 月 ~ 至今 ）所在部门：集团研发
 
-
 ### 项目：微信平台项目 
-20 年 3 月我参与并主导了微信平台系统的开发。项目主要是通过第三方工具 WeHub 对微信运营数据的收集、分析、以及调用 WeHub 接口实现微信聊天。项目中我们运用了 RocketMq 作为微信消息的处理缓冲，使用有序消息队列做削峰处理，给微信下发消息使用的是 Redis 队列保证下发消息的间隔、有序发送，老师聊天页面使用 weSocket 通讯。这个项目我们遇到了不少技术难点都被一一克服，例如消费能力的提升、群成员消息风暴的消除、webSocket session 共享问题的解决等。项目快速的推进和稳步的迭代，有效减轻 BF 模式中老师的工作量，也收集了大量老师服务数据，对规范教学、以及决策层提供了重大帮助。  
+20 年 3 月我参与并主导了微信平台系统的开发。项目主要是通过第三方工具 WeHub 对微信运营数据的收集、分析、以及通过 WeHub 接口实现微信聊天。项目中我们运用了 RocketMq 作为微信消息的处理缓冲，使用有序消息队列做削峰处理，给微信下发消息使用的是 Redis 队列保证下发消息的间隔、有序发送，老师聊天页面使用 weSocket 通讯。这个项目我们遇到了不少技术难点都被一一克服，例如消费能力的提升、群成员消息风暴的消除、webSocket session 共享问题的解决等。项目快速的推进和稳步的迭代，有效减轻 BF 模式中老师的工作量，也收集了大量老师服务数据，对规范教学、以及决策层提供了重大帮助。  
 **技术点**：springBoot、redis、mysql、websocket、wehub、SSO、ES
 
 ### 项目：天网标准版项目 
@@ -76,14 +75,14 @@
 **技术点**：Spring、SpringMVC、MyBatis、Oracle、爬虫
 
 ---
-## 参加的开源项目
-
- - [gold-miner](https://github.com/xitu/gold-miner)：掘金翻译计划，英译中技术社区
- - [doPi](http://github.com/yourname/projectname)：控制树莓派GPIO端口的java项目
 
 ## 技术文章
 
 - [java 即时编译分享](http://suroot.win/2020/04/29/java-JIT%E5%8D%B3%E6%97%B6%E7%BC%96%E8%AF%91%E5%88%86%E4%BA%AB/) 
 - [webSocke t接入问题总结](http://suroot.win/2020/04/28/java-webSocket%E6%8E%A5%E5%85%A5%E7%A2%B0%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/)
+-- [利用映射提高 MongoDB 性能-翻译文章](https://juejin.im/post/6881503834737213454)
 
-## 
+## 参加的开源项目
+
+ - [gold-miner](https://github.com/xitu/gold-miner)：掘金翻译计划，英译中技术社区
+ - [doPi](http://github.com/yourname/projectname)：控制树莓派GPIO端口的java项目
