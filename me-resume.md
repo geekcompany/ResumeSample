@@ -4,17 +4,19 @@
 	<table rules=none frame=void>
     <tr>
         <td align = "left" >钱磊 / 男 </td>
-        <td align = "right" style="width:140px;"  rowspan = "7"><img src="https://gitee.com/suqianlei/Pic-Go-Repository/raw/master/img/20200924141821.jpeg" align="cneter" /></td>
+        <td align = "right" style="width:120px;"  rowspan = "6"><img src="https://gitee.com/suqianlei/Pic-Go-Repository/raw/master/img/20200924141821.jpeg" align="cneter" /></td>
     </tr>
     <tr>
-        <td align = "left">手机：15801030098（同微信号） </td>
+        <td align = "left">手机：15801030098 </td>
     </tr>
     <tr>
         <td align = "left">邮箱：suqianlei@gmail.com </td>
     </tr>
+    <!--
     <tr>
         <td align = "left">博客：http://suroot.win </td>
     </tr>
+    -->
     <tr>
         <td align = "left">Github：http://github.com/onlinelei  </td>
     </tr>
@@ -36,17 +38,21 @@
   python：<progress value="50" max="100"></progress>
 </p> 
 
-- 语言：Java / Python / C# / HTML / javaScript
-- 框架：Spirng / MyBatis / Hibernate
-- 数据库相关：MySQL / Oracle / Redis 
-- 开发平台和工具：Windows / macOs / linux / IntelliJ IDEA / Eclipse
-- 技能点：jvm / Git / GitLab / Gerrit / Svn / Maven / xxlJob / Kafka / RocketMQ /  nginx / docker 
+- 熟练掌握 Java 及面向对象设计开发，掌握集合、多线程以及常用的设计模式；
+- 熟练使用 mysql，对数据库优化及SQL优化有了解；
+- 熟练掌握 redis、mongodb等nosql数据库；
+- 熟练掌握 jvm 体系，熟练使用常用的jvm工具进行线上问题排查；
+- 熟练使用 springMVC、springboot、mybatis 等 web 框架进行开发；
+- 熟悉常用的消息队列如 kafka、rocketMq 开发并掌握其基本原理；
+- 熟练使用常用的 linux 命令，能完成日常的部署和维护工作；
+- 熟练使用 idea、git、svn、maven 及等常用的开发工具开发；
+- 熟悉高并发、分布式系统的设计和应用；
 
 ---
 ## 公司：尚德机构 （ 2016 年 9 月 ~ 至今 ）所在部门：集团研发
 
 ### 项目：微信平台项目 
-20 年 3 月我参与并主导了微信平台系统的开发。项目主要是通过第三方工具 WeHub 对微信运营数据的收集、分析、以及通过 WeHub 接口实现微信聊天。项目中我们运用了 RocketMq 作为微信消息的处理缓冲，使用有序消息队列做削峰处理，给微信下发消息使用的是 Redis 队列保证下发消息的间隔、有序发送，老师聊天页面使用 weSocket 通讯。这个项目我们遇到了不少技术难点都被一一克服，例如消费能力的提升、群成员消息风暴的消除、webSocket session 共享问题的解决等。项目快速的推进和稳步的迭代，有效减轻 BF 模式中老师的工作量，也收集了大量老师服务数据，对规范教学、以及决策层提供了重大帮助。  
+20 年 3 月我参与并主导了微信平台系统的开发。项目主要是通过第三方工具 WeHub 对微信运营数据的收集、分析、以及通过 WeHub 接口实现微信聊天。项目中我们运用了 RocketMq 作为微信消息的处理缓冲，使用有序消息队列做微信消息的削峰处理，给微信下发消息使用的是 Redis 队列保证下发消息的间隔、有序发送，老师聊天页面使用 weSocket 通讯。这个项目我们遇到了不少技术难点都被一一克服，例如消费能力的提升、群成员消息风暴的消除、webSocket session 共享问题的解决等。项目快速的推进和稳步的迭代，有效减轻 BF 模式中老师的工作量，也收集了大量老师服务数据，对规范教学、以及决策层提供了重大帮助。  
 **技术点**：springBoot、redis、mysql、websocket、wehub、SSO、ES
 
 ### 项目：天网标准版项目 
